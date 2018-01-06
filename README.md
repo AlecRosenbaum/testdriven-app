@@ -1,5 +1,7 @@
 # Testdriven-app
 
+[![Build Status](https://travis-ci.org/AlecRosenbaum/testdriven-app.svg?branch=master)](https://travis-ci.org/AlecRosenbaum/testdriven-app)
+
 ## what is this?
 
 I'm following the tutorial series at testdriven.io on microservices with docker, flask, and react
